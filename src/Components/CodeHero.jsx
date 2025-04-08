@@ -28,7 +28,7 @@ const CodeHero = () => {
             <div className='flex p-3 flex-col md:flex-row'>
               <div className='py-4 flex flex-col gap-4'>
                 <div className='icon-box flex items-start gap-3'>
-                  <PiSealCheckDuotone className='text-green-400 text-3xl' />
+                  <PiSealCheckDuotone className='text-green-400 text-2xl' />
                   <p className='text-zinc-400'>
                     <span className='text-white font-bold'>Custom Website Design</span> tailored to your brand and goals.
                   </p>

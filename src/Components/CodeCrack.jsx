@@ -28,16 +28,8 @@ const CodeCrack = () => {
             </button>
             <button className='group bg-gray-700/50 hover:bg-white border-red-500 border rounded-full px-5 py-3 text-white flex gap-3 justify-center items-center transition-all duration-300'>
               <span className='font-bold group-hover:text-black'>
-                Watch Portfolio
-              </span>
-              <div className='h-5 w-[2px] bg-gray-500 group-hover:bg-red-500'></div>
-              <span className='flex justify-center items-center gap-1'>
-                <span className='text-red-500 group-hover:text-red-600'>
-                  Live
-                </span>
-                <IoIosArrowRoundForward className='group-hover:text-red-600' />
-              </span>
-            </button>
+              Schedule Zoom Meeting 
+              </span>            </button>
           </div>
 
           <div className='hidden student md:flex flex-wrap w-full md:w-4/5 bg-gray-700/50 border-red-500 border mt-5 rounded-full p-2 px-5'>

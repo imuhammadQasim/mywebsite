@@ -10,14 +10,14 @@ const services = [
   },
   {
     id: 2,
-    title: "UI/UX Design",
+    title: "Graphic Design",
     description:
       "Crafting visually appealing and user-friendly designs that elevate your brand.",
     img: "./download.svg",
   },
   {
     id: 3,
-    title: "SEO & Analytics",
+    title: "Digitak Marketing",
     description:
       "Enhance your website's SEO performance and track analytics for better results.",
     img: "./download.svg",
