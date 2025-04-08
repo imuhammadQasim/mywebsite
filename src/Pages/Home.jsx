@@ -6,13 +6,11 @@ import Whychosose from './WhyChoose'
 import Testimonials from './Testimonials'
 import CodeHero from '../Components/CodeHero'
 import CodeCrack from '../Components/CodeCrack'
-import Gradient from '../Components/Gradient'
 const Home = () => {
   return (
     <div>
       <CodeHero/>
       <CodeCrack/>
-      <Gradient/>
       <Whychosose/>
       <MyComponent/>
       <HA/>
